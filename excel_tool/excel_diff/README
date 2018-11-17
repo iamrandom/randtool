@@ -1,0 +1,6 @@
+excel diff tool of tovtoisesvn plugin
+
+tovtoisesvn->setting->Diff Viewer->Advanced
+.xlsx      ${DiffToolHome}/XDocDiff.exe
+
+with my optimization, it is very fast, diff 3M excel less tan 10s
